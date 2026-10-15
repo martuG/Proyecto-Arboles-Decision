@@ -1,0 +1,17 @@
+Pedido,Cliente nuevo,Pago,Demora,Descuento alto,Canceló
+P01,Sí,Transferencia,Sí,Sí,Sí
+P02,Sí,Tarjeta,Sí,No,Sí
+P03,Sí,Transferencia,Sí,No,Sí
+P04,No,Transferencia,Sí,Sí,Sí
+P05,No,Tarjeta,Sí,No,No
+P06,No,Tarjeta,Sí,Sí,Sí
+P07,Sí,Tarjeta,No,Sí,No
+P08,Sí,Transferencia,No,No,No
+P09,No,Transferencia,No,Sí,No
+P10,No,Tarjeta,No,No,No
+P11,Sí,Tarjeta,Sí,No,No
+P12,No,Transferencia,Sí,No,Sí
+P13,Sí,Transferencia,Sí,Sí,Sí
+P14,No,Tarjeta,No,Sí,No
+P15,Sí,Tarjeta,Sí,Sí,Sí
+P16,No,Transferencia,No,No,No
